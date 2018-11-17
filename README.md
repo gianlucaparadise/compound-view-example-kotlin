@@ -5,6 +5,8 @@ This is an example project to show how to use the compound views in Android with
 * [MyEditText class](app/src/main/java/com/gianlucaparadise/compoundviewexamplekotlin/views/MyEditText.kt)
 * [MyEditText layout](app/src/main/res/layout/view_myedittext.xml)
 
+[Here](https://github.com/gianlucaparadise/compound-view-example-xamarin) the Xamarin version.
+
 ## Result
 
 ### User interaction
